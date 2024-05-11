@@ -1,0 +1,110 @@
+[{
+  "_id": 0,
+  "name": "Ensemble 0",
+  "creationDate": "12/13/2023",
+  "numPlans": 250,
+  "optimalTransport": {
+    "avgDst": 0.868,
+    "clusterIds": [
+      "mi_0",
+      "mi_1",
+      "mi_2"
+    ]
+  },
+  "hammingDistance": {
+    "avgDst": 0.92865,
+    "clusterIds": [
+      "mi_0",
+      "mi_1",
+      "mi_2"
+    ]
+  }
+},
+{
+  "_id": 1,
+  "name": "Ensemble 1",
+  "creationDate": "12/13/2023",
+  "numPlans": 1000,
+  "optimalTransport": {
+    "avgDst": 0.0763,
+    "clusterIds": [
+      "mi_0",
+      "mi_1",
+      "mi_2"
+    ]
+  },
+  "hammingDistance": {
+    "avgDst": 0.4222,
+    "clusterIds": [
+      "mi_0",
+      "mi_1",
+      "mi_2"
+    ]
+  }
+},
+{
+  "_id": 2,
+  "name": "Ensemble 2",
+  "creationDate": "12/13/2023",
+  "numPlans": 1500,
+  "optimalTransport": {
+    "avgDst": 0.2369,
+    "clusterIds": [
+      "mi_0",
+      "mi_1",
+      "mi_2"
+    ]
+  },
+  "hammingDistance": {
+    "avgDst": 0.806,
+    "clusterIds": [
+      "mi_0",
+      "mi_1",
+      "mi_2"
+    ]
+  }
+},
+{
+  "_id": 3,
+  "name": "Ensemble 3",
+  "creationDate": "12/13/2023",
+  "numPlans": 2000,
+  "optimalTransport": {
+    "avgDst": 0.2381,
+    "clusterIds": [
+      "mi_0",
+      "mi_1",
+      "mi_2"
+    ]
+  },
+  "hammingDistance": {
+    "avgDst": 0.1021,
+    "clusterIds": [
+      "mi_0",
+      "mi_1",
+      "mi_2"
+    ]
+  }
+},
+{
+  "_id": 4,
+  "name": "Ensemble 4",
+  "creationDate": "12/13/2023",
+  "numPlans": 2500,
+  "optimalTransport": {
+    "avgDst": 0.633,
+    "clusterIds": [
+      "mi_0",
+      "mi_1",
+      "mi_2"
+    ]
+  },
+  "hammingDistance": {
+    "avgDst": 0.7928,
+    "clusterIds": [
+      "mi_0",
+      "mi_1",
+      "mi_2"
+    ]
+  }
+}]
